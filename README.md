@@ -26,7 +26,7 @@ In addition, I'am junior, going to practice, I hope you can take of a job in the
 Tanks again!
 
 
-说明：
+Note：
 ----
 Access[The project](http://fanger.cloudfoundry.com/)，place use Chrome or firfox.
 
