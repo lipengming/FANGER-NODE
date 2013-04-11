@@ -1,0 +1,7 @@
+{
+  "name":"FANGER-NODE",
+  "version":"0.0.1",
+  "scripts":{
+      "start":"app.js"
+  }
+}
