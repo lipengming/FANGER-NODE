@@ -8,8 +8,8 @@ Is a based on information-sharing platform of micro understanding of life.
 Help users to 'share life, love life' is a purpose of this application.
 
 ##Note1: to use Chorme or firfox to experience this project.
-##Note1:Must first declare that this project is based on the framework of the Njblog structures.
-Thank NjBlog guidelines, you can find him in [There](https://github.com/mz121star/NJBlog).
+
+##Note1:Must first declare that this project is based on the framework of the Njblog structures.Thank NjBlog guidelines, you can find him in [There](https://github.com/mz121star/NJBlog).
 
 ##About the Technology:
 ---
