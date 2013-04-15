@@ -11,6 +11,7 @@ Help users to 'share life, love life' is a purpose of this application.
 
 ##About the Technology:
 ---
+	>Must first declare that this project is based on the framework of the Njblog structures.Thank NjBlog guidelines, you can find him in [There](https://github.com/mz121star/NJBlog)
     > Language：Nodejs
     > DataBase:MongDB
     > MVC Freamwork:express
